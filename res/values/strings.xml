@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bluetooth</string>
+    <string name="ip_address">IP</string>
+    <string name="name_port">Порт</string>
+    <string name="requestText">Ответ</string>
+    <string name="letsGO">Установить связь</string>
+</resources>
